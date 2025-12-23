@@ -26,4 +26,6 @@ int main(){
     cout << setprecision(3);
     cout << "Mean = " << mean << "\n";
     cout << "Standard deviation = " << SD ;
+
+    source.close();
 }
